@@ -13,6 +13,6 @@ defmodule BuildToy do
 
   """
   def hello do
-    :world
+    :hoge
   end
 end
